@@ -29,7 +29,7 @@ bash setup.sh
 6. **install-configs.sh**
     Установит мои конфиги для приложений
 
-7. **install-zapret-youtube-discord-linux.sh""
+7. **install-zapret-youtube-discord-linux.sh**
     Полная установка zapret для linux. При установке необходимо читай зеленый текст, во избежании ошибок
 
 8. **install-dev-tools.sh**
